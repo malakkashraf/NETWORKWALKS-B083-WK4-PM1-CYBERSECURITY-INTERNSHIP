@@ -368,9 +368,10 @@ The Mediroza General Hospital assessment demonstrated how multiple seemingly sep
 The project reinforced the importance of secure authentication, parameterized database queries, strong password policies, proper file access controls, metadata sanitization, and secure storage of database backups.
 
 
-👤 Author
+##👤 Author
 
 Malak Ashraf
+
 Cybersecurity Intern | Penetration Testing
 
 🔗 LinkedIn: www.linkedin.com/in/malak-ashraf-196084370
